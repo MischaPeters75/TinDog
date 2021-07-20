@@ -1,2 +1,1 @@
-# TinDog
-Bootstrap Assignment
+TinDog Starting Files
